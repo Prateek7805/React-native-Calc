@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "jsCalc",
+    "description": "Simple Calculator",
     "slug": "jsCalc",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.prateek.prateek",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
